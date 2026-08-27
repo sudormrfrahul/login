@@ -87,9 +87,6 @@ h3 {
     justify-content: center;
 
     font-family: "Poppins", sans-serif;
-
-    padding-left: 2rem;
-    padding-right: 2rem;
   }
 
   .content-area {
@@ -130,7 +127,7 @@ h3 {
   .content-area h1 {
     border-radius: 1rem;
 
-    width: 18rem;
+    width: 12rem;
     text-align: center;
     text-decoration: underline;
     border: 2px dashed white;
