@@ -7,7 +7,7 @@
 .main-container {
   width: 100%;
   height: 100vh;
-  background-color: #000000;
+  background: linear-gradient(135deg, #001f58);
 
   display: flex;
   align-items: center;
@@ -20,7 +20,7 @@
   max-width: 30%;
   height: auto;
 
-  background: linear-gradient(135deg, rgb(101, 151, 0), #294c18);
+  background: linear-gradient(135deg, rgb(0, 149, 255), #004798);
   color: white;
 
   padding: 2rem;
@@ -38,14 +38,14 @@
 }
 
 #button {
-  background-color: #c70532;
+  background-color: #0073ff;
   border: none;
   padding: 1rem;
 
   border-radius: 1rem;
   cursor: pointer;
 
-  box-shadow: inset 0px 8px 5px #b3002a;
+  box-shadow: inset 2px 2px 2px #fefdfe;
 }
 
 i {
