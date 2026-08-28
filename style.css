@@ -56,7 +56,6 @@ i {
 h3 {
   text-align: center;
   font-size: 3rem;
-  text-decoration: overline;
   text-decoration-style: dashed;
   text-shadow: 3px 3px 5px #0000002d;
 }
@@ -113,7 +112,6 @@ h3 {
   h3 {
     text-align: center;
     font-size: 1.5rem;
-    text-decoration: overline;
     text-decoration-style: dashed;
     text-shadow: 3px 3px 5px #0000002d;
   }
